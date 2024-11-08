@@ -9,4 +9,5 @@ This is my repository for the final assignment for Working With Data and Code A2
 4. Enjoy!
 
 KEY NOTE! -
-If the 'A2_final' project does not run, please use the 'A2_No_Sound' file. (There have been some issues with the audio playing, it is still a prototype with issues to be resolved in the future!). You can then listen to the TunePad mp.3 file whilst engaging with the animation for similar effect!
+If the 'A2_final' project does not run, please use the 'A2_No_Sound' file. (There have been some issues with the audio playing, it is still a prototype with issues to be resolved in the future!). You can then listen to the TunePad mp.3 file whilst engaging with the animation for similar effect! You can also listen to the song on TunePad directly, using the link provided here:
+https://tunepad.com/project/90367 
