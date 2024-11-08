@@ -1,6 +1,9 @@
 # Data-and-Code-A2-B-Alvaro
 This is my repository for the final assignment for Working With Data and Code A2!
 
+I have created an interactive shape animation on Processing that can be used in conjunction with a song made on TunePad. This aims to be a fun, interactive pproject that is a little bit of lightheared code!
+
+
 **How to Run Animation and Song
 **
 1. Ensure the latest version of Processing is installed on your device
